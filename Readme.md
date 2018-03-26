@@ -1,1 +1,1 @@
-考虑新建一个seerstatus包，用来获取seerrobot的状态信息，包括速度,位置，角度等信息
+ros package for control seer_Robotics
